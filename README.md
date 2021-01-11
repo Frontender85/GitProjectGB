@@ -1,0 +1,2 @@
+# GitProjectGB
+studying Git GeekBrains
